@@ -144,9 +144,10 @@ export default () => {
             position: `absolute`,
             top: rhythm(1.5),
             zIndex: 10,
-            transform: `rotate(90deg)`,
+            // transform: `rotate(90deg)`,
             transformOrigin: `left top 0`,
-            left: rhythm(2.5),
+            // left: rhythm(2.5),
+            left: rhythm(1.5),
             fontSize: scale(2 / 5).fontSize,
             lineHeight: scale(2 / 5).lineHeight,
             "@media (min-width: 420px)": {

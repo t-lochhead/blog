@@ -27,7 +27,8 @@ export default ({ location }) => {
       </p> */}
       <p>
         Over the past 10+ years, I've helped many incredible companies (both
-        large and small), through data-driven marketing campaigns.
+        large and small) grow their businesses with data-driven marketing
+        leadership and campaign execution.
       </p>
       <p>
         More recently, I've been developing my skillset as a programmer. This
