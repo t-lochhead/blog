@@ -1,5 +1,5 @@
 import React from "react"
-// import Helmet from "react-helmet"
+import Helmet from "react-helmet"
 // import { Link, graphql } from "gatsby"
 
 // import { rhythm } from "../utils/typography"
@@ -8,6 +8,7 @@ import Layout from "../layouts/index.js"
 export default ({ location }) => {
   return (
     <Layout location={location}>
+      <Helmet title="about" />
       <h1>Greetings</h1>
       <p>My name is Tavis.</p>
       <p>

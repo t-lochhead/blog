@@ -15,7 +15,7 @@ class BlogIndexRoute extends React.Component {
 
     return (
       <Layout location={this.props.location}>
-        <Helmet title={siteTitle} />
+        <Helmet title="blog" />
         <p
           css={{
             marginBottom: rhythm(1.5),
