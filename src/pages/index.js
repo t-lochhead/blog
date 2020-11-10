@@ -65,7 +65,8 @@ export default () => {
               flex: 1,
               "@media (max-width: 420px)": {
                 flex: "unset",
-                alignSelf: "flex-end",
+                alignItems: "flex-end",
+                height: "40vh",
               },
               justifyContent: "center",
             }}
