@@ -5,6 +5,7 @@ module.exports = {
     title: "tavis",
     author: "Tavis Lochhead",
     homeCity: "Toronto",
+    siteUrl: `https://tavis.cc`,
   },
   plugins: [
     {
@@ -66,5 +67,6 @@ module.exports = {
     `gatsby-plugin-offline`,
     // `gatsby-plugin-preact`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
   ],
 }

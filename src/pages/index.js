@@ -73,7 +73,7 @@ export default () => {
             <h1
               css={{
                 // width: `80%`,
-                fontSize: scale(5 / 5).fontSize,
+                fontSize: scale(6 / 5).fontSize,
                 lineHeight: 1.1,
                 margin: "0",
                 "@media (min-width: 800px)": {
