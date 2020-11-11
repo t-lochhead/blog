@@ -5,7 +5,18 @@ import { scale, rhythm } from "../utils/typography"
 import homeGif from "../images/homegif2.gif"
 
 const NoStyleLink = props => (
-  <Link css={{ color: `inherit`, textDecoration: `none` }} {...props} />
+  <div
+    css={{
+      display: "flex",
+      margin: `0 ${rhythm(1 / 4)}`,
+      fontSize: "1rem",
+      "@media (min-width: 600px)": {
+        fontSize: scale(2 / 5).fontSize,
+      },
+    }}
+  >
+    <Link css={{ color: `inherit`, textDecoration: `none` }} {...props} />
+  </div>
 )
 
 const whitish = `#deeaf3`
@@ -15,10 +26,10 @@ export default () => {
     <div
       css={{
         minHeight: `100vh`,
-        // borderTop: `${rhythm(3 / 4)} solid ${whitish}`,
-        // "@media (min-width: 420px)": {
-        border: `${rhythm(3 / 4)} solid ${whitish}`,
-        // },
+        borderTop: `${rhythm(3 / 4)} solid ${whitish}`,
+        "@media (min-width: 420px)": {
+          border: `${rhythm(3 / 4)} solid ${whitish}`,
+        },
         background: `#51b3bf`,
         display: "flex",
         flexDirection: "column",
@@ -28,7 +39,7 @@ export default () => {
       <div
         css={{
           // minHeight: rhythm(1),
-          height: "60px",
+          // height: "60px",
           display: "flex",
           justifyContent: "space-between",
         }}
@@ -38,8 +49,7 @@ export default () => {
             float: `left`,
             color: whitish,
             marginTop: rhythm(3 / 4),
-            marginLeft: rhythm(3 / 4),
-            fontSize: scale(2 / 5).fontSize,
+            marginLeft: rhythm(2 / 4),
             lineHeight: scale(2 / 5).lineHeight,
           }}
         >
@@ -50,13 +60,31 @@ export default () => {
             float: `right`,
             color: whitish,
             marginTop: rhythm(3 / 4),
-            marginRight: rhythm(3 / 4),
-            fontSize: scale(2 / 5).fontSize,
+            marginRight: rhythm(2 / 4),
             lineHeight: scale(2 / 5).lineHeight,
+            flexWrap: "wrap",
+            display: "flex",
+            justifyContent: "flex-end",
           }}
         >
-          <NoStyleLink to="/blog/">blog</NoStyleLink>&nbsp;&nbsp;
-          <NoStyleLink to="/about/">about</NoStyleLink>
+          <div
+            css={{
+              display: "flex",
+              flexDirection: "row",
+            }}
+          >
+            <NoStyleLink to="/portfolio/">portfolio</NoStyleLink>
+            <NoStyleLink to="/blog/">blog</NoStyleLink>
+          </div>
+          <div
+            css={{
+              display: "flex",
+              flexDirection: "row",
+            }}
+          >
+            <NoStyleLink to="/about/">about</NoStyleLink>
+            <NoStyleLink to="/contact/">contact</NoStyleLink>
+          </div>
         </div>
       </div>
       <div
@@ -164,7 +192,7 @@ export default () => {
             flex: "1",
           }}
         >
-          portfolio ->
+          {/* portfolio -> */}
         </div>
       </div>
     </div>

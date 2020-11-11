@@ -11,7 +11,7 @@ class BlogIndexRoute extends React.Component {
   render() {
     // console.log(this.props)
     const posts = this.props.data.allMarkdownRemark.edges
-    const siteTitle = this.props.data.site.siteMetadata.title
+    // const siteTitle = this.props.data.site.siteMetadata.title
 
     return (
       <Layout location={this.props.location}>

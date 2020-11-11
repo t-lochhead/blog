@@ -7,7 +7,18 @@ const rhythm = typography.rhythm
 const scale = typography.scale
 
 const NoStyleLink = props => (
-  <Link css={{ color: `inherit`, textDecoration: `none` }} {...props} />
+  <div
+    css={{
+      display: "flex",
+      margin: `0 ${rhythm(1 / 4)}`,
+      fontSize: "1rem",
+      "@media (min-width: 600px)": {
+        fontSize: scale(2 / 5).fontSize,
+      },
+    }}
+  >
+    <Link css={{ color: `inherit`, textDecoration: `none` }} {...props} />
+  </div>
 )
 
 class Wrapper extends React.Component {
@@ -22,14 +33,20 @@ class Wrapper extends React.Component {
           },
         }}
       >
-        <div css={{ minHeight: rhythm(1) }}>
+        <div
+          css={{
+            // minHeight: rhythm(1),
+            // height: "60px",
+            display: "flex",
+            justifyContent: "space-between",
+          }}
+        >
           <div
             css={{
               float: `left`,
-              color: `#51b3bf`,
+              color: "#51b3bf",
               marginTop: rhythm(3 / 4),
-              marginLeft: rhythm(3 / 4),
-              fontSize: scale(2 / 5).fontSize,
+              marginLeft: rhythm(2 / 4),
               lineHeight: scale(2 / 5).lineHeight,
             }}
           >
@@ -38,15 +55,33 @@ class Wrapper extends React.Component {
           <div
             css={{
               float: `right`,
-              color: `#51b3bf`,
+              color: "#51b3bf",
               marginTop: rhythm(3 / 4),
-              marginRight: rhythm(3 / 4),
-              fontSize: scale(2 / 5).fontSize,
+              marginRight: rhythm(2 / 4),
               lineHeight: scale(2 / 5).lineHeight,
+              flexWrap: "wrap",
+              display: "flex",
+              justifyContent: "flex-end",
             }}
           >
-            <NoStyleLink to="/blog/">blog</NoStyleLink>&nbsp;&nbsp;
-            <NoStyleLink to="/about/">about</NoStyleLink>
+            <div
+              css={{
+                display: "flex",
+                flexDirection: "row",
+              }}
+            >
+              <NoStyleLink to="/portfolio/">portfolio</NoStyleLink>
+              <NoStyleLink to="/blog/">blog</NoStyleLink>
+            </div>
+            <div
+              css={{
+                display: "flex",
+                flexDirection: "row",
+              }}
+            >
+              <NoStyleLink to="/about/">about</NoStyleLink>
+              <NoStyleLink to="/contact/">contact</NoStyleLink>
+            </div>
           </div>
         </div>
         <div
