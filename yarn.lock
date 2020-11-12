@@ -6365,6 +6365,11 @@ gatsby-plugin-sitemap@^2.5.1:
     pify "^3.0.0"
     sitemap "^1.13.0"
 
+gatsby-plugin-social-cards@^0.5.17:
+  version "0.5.17"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-social-cards/-/gatsby-plugin-social-cards-0.5.17.tgz#442fc0240c50bf6eb43cd448caa1d5578db7cc29"
+  integrity sha512-7eCS7m5fkcw3gKa4awGp0p7e4Ca7z9Sihlw630ZySmf+PaMq9bqh/GaGsR8KhLy7tifDbzO07WMx0Zef4Ersig==
+
 gatsby-plugin-typescript@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.5.0.tgz#b7daacff18da2926bf7f6a3251785356bec20c52"

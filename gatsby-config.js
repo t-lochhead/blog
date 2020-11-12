@@ -56,7 +56,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-774017-3`,
+        trackingId: `G-V8CLSZ2K6M`,
       },
     },
     {
@@ -76,5 +76,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     // `gatsby-plugin-sitemap`,
     `gatsby-plugin-catch-links`,
+    `gatsby-plugin-social-cards`,
   ],
 }
