@@ -11,7 +11,7 @@ export default ({ location }) => {
       <h1>Reach out</h1>
       <p>I would love to hear from you.</p>
       <p>Hit me up at tavislochhead [at] gmail [dot] com.</p>
-      <p>
+      {/* <p>
         Or follow me on{" "}
         <a
           href="https://twitter.com/tavislochhead"
@@ -22,7 +22,7 @@ export default ({ location }) => {
         </a>
         .
       </p>
-      <p>Do both if you really want my attention. 👀</p>
+      <p>Do both if you really want my attention. 👀</p> */}
     </Layout>
   )
 }

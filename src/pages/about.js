@@ -10,6 +10,7 @@ export default ({ location }) => {
       <Helmet title="about" />
       <h1>Greetings</h1>
       <p>My name is Tavis.</p>
+      <p>Tavis Ivan Lochhead, if you want to be formal about it.</p>
       <p>
         I love to create, learn how things work, and help people solve problems.
       </p>

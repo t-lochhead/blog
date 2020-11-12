@@ -82,16 +82,16 @@ class BlogPostRoute extends React.Component {
               height: rhythm(2),
             }}
           />
-          <strong>{this.props.data.site.siteMetadata.author}</strong> lives and
-          works in {this.props.data.site.siteMetadata.homeCity}, building useful
-          things.{" "}
+          <strong>{this.props.data.site.siteMetadata.author}</strong> is a
+          seasoned marketer, who loves tech and data. Tavis is the founder of{" "}
           <a
-            href="https://twitter.com/tavislochhead"
-            target="_blank"
-            rel="noreferrer"
+            href="https://recorank.com"
+            target="
+      _blank"
           >
-            You should follow him on Twitter
-          </a>
+            RecoRank
+          </a>{" "}
+          and also consults as a marketer, programmer, and data analyst.
         </p>
       </Layout>
     )

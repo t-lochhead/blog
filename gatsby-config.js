@@ -42,6 +42,13 @@ module.exports = {
           "gatsby-remark-prismjs",
           "gatsby-remark-copy-linked-files",
           "gatsby-remark-smartypants",
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "nofollow",
+            },
+          },
         ],
       },
     },
@@ -68,5 +75,6 @@ module.exports = {
     // `gatsby-plugin-preact`,
     `gatsby-plugin-react-helmet`,
     // `gatsby-plugin-sitemap`,
+    `gatsby-plugin-catch-links`,
   ],
 }

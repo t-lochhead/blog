@@ -9,9 +9,9 @@ const NoStyleLink = props => (
     css={{
       display: "flex",
       margin: `0 ${rhythm(1 / 4)}`,
-      fontSize: "1rem",
+      fontSize: scale(1 / 10).fontSize,
       "@media (min-width: 600px)": {
-        fontSize: scale(2 / 5).fontSize,
+        fontSize: scale(1.5 / 5).fontSize,
       },
     }}
   >
@@ -122,7 +122,7 @@ export default () => {
             }}
           >
             <span
-              style={{
+              css={{
                 fontWeight: 200,
                 color: "#f994ff",
                 textShadow: "2px 2px #ffab94, 4px 4px #ffff94",
@@ -132,7 +132,7 @@ export default () => {
             </span>
             <br />
             <span
-              style={{
+              css={{
                 fontWeight: 500,
                 color: "#ffab94",
                 textShadow: "2px 2px #ffff94, 4px 4px #f994ff",
@@ -142,7 +142,7 @@ export default () => {
             </span>
             <br />
             <span
-              style={{
+              css={{
                 fontWeight: 800,
                 color: "#ffff94",
                 textShadow: "2px 2px #f994ff, 4px 4px #ffab94",
@@ -163,7 +163,7 @@ export default () => {
           <img
             alt="homegif"
             src={homeGif}
-            style={{
+            css={{
               objectFit: "contain",
               width: "80%",
               height: "100%",

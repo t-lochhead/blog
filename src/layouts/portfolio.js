@@ -90,7 +90,7 @@ class Wrapper extends React.Component {
             "@media (min-width: 420px)": {
               padding: `${rhythm(3)} ${rhythm(3 / 4)}`,
             },
-            maxWidth: rhythm(22),
+            maxWidth: rhythm(32),
             margin: `0 auto`,
           }}
         >

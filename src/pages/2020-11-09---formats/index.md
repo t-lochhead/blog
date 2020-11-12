@@ -1,11 +1,11 @@
 ---
 title: "Test Blog"
-date: "2020-11-09"
+date: "2020-11-10"
 # tags:
 #   - open source
 #   - gatsby
 #   - typography.js
-draft: false
+draft: true
 ---
 
 Bodyuuu
