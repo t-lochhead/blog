@@ -8,4 +8,5 @@ assets/sass/bower_components/
 public/
 .intermediate-representation/
 .cache/
-blogideas.log
+blogideas.log# XDN generated build directory
+.xdn
