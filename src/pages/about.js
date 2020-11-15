@@ -3,15 +3,80 @@ import Helmet from "react-helmet"
 // import { Link, graphql } from "gatsby"
 // import { rhythm } from "../utils/typography"
 import Layout from "../layouts/index.js"
+import Headshot from "../images/headshot.jpeg"
+import typography from "../utils/typography"
+const rhythm = typography.rhythm
 
 export default ({ location }) => {
   return (
     <Layout location={location}>
       <Helmet title="about" />
       <h1>Greetings</h1>
-      <p>My name is Tavis.</p>
-      <p>Tavis Ivan Lochhead, if you want to be formal about it.</p>
-      <p>
+      <div
+        css={{
+          display: "flex",
+          flexDirection: "row",
+          marginBottom: rhythm(1),
+          "@media (min-width: 600px)": {},
+        }}
+      >
+        <div css={{ display: "flex", flex: "1" }}>
+          <img
+            css={{
+              width: "100%",
+              // boxShadow: "2px 2px 10px grey",
+              objectFit: "cover",
+              height: "100%",
+              margin: "0",
+              borderRadius: "100%",
+            }}
+            src={Headshot}
+            alt="headshot"
+          />
+        </div>
+        <div
+          css={{
+            display: "flex",
+            flex: "2",
+            // paddingTop: rhythm(1),
+            flexDirection: "column",
+            justifyContent: "center",
+            // "@media (min-width: 600px)": {
+            paddingLeft: rhythm(1),
+            // },
+          }}
+        >
+          <p>My name is Tavis.</p>
+          <p
+            css={{
+              "@media (max-width: 600px)": {
+                marginBottom: "0",
+              },
+            }}
+          >
+            Tavis Ivan Lochhead, if you want to be formal about it.
+          </p>
+          <p
+            css={{
+              display: "none",
+              "@media (min-width: 600px)": {
+                display: "inherit",
+                marginBottom: "0",
+              },
+            }}
+          >
+            I love to create, learn how things work, and help people solve
+            problems.
+          </p>
+        </div>
+      </div>
+      <p
+        css={{
+          "@media (min-width: 600px)": {
+            display: "none",
+          },
+        }}
+      >
         I love to create, learn how things work, and help people solve problems.
       </p>
       {/* <p>
@@ -30,6 +95,7 @@ export default ({ location }) => {
         large and small) grow their businesses with data-driven marketing
         leadership and campaign execution.
       </p>
+      <p></p>
       <p>
         More recently, I've been developing my skillset as a programmer. This
         year, I built{" "}
