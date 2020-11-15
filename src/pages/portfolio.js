@@ -66,7 +66,13 @@ export default ({ location }) => {
           <p>
             <b>Bell-Cisco Co-branded Webex Campaign</b>
           </p>
-          <p>
+          <p
+            css={{
+              "@media (min-width: 600px)": {
+                marginBottom: "0",
+              },
+            }}
+          >
             Partnered with Bell Canada to launch a nation-wide campaign
             promoting Cisco Webex on Bell’s network, resulting in $10M+ in
             revenue
@@ -123,7 +129,13 @@ export default ({ location }) => {
           <p>
             <b>Rogers 5G Launch @ Collision</b>
           </p>
-          <p>
+          <p
+            css={{
+              "@media (min-width: 600px)": {
+                marginBottom: "0",
+              },
+            }}
+          >
             Took the B2B marketing lead for Rogers' 5G launch at Collision -
             North America's largest tech conference; resulting in significant
             brand awareness and 500+ MQLs
@@ -180,7 +192,13 @@ export default ({ location }) => {
           <p>
             <b>K4B Re-Brand</b>
           </p>
-          <p>
+          <p
+            css={{
+              "@media (min-width: 600px)": {
+                marginBottom: "0",
+              },
+            }}
+          >
             Launched Kijiji For Business re-brand, resulting in 20% increase of
             new advertiser acquisition over 1 year
           </p>
@@ -234,17 +252,16 @@ export default ({ location }) => {
             Planned, executed, and measured online marketing campaigns across
             Canada and the United States
           </p>
-          <p>
+          <p
+            css={{
+              "@media (min-width: 600px)": {
+                marginBottom: "0",
+              },
+            }}
+          >
             Acquired large accounts like Salesforce and Accenture through
             targeted LinkedIn and Twitter campaigns
           </p>
-          {/* <p>
-            <b>Internet Research Consulting</b>
-          </p>
-          <p>
-            Worked with non-profit organizations like the United Nations to
-            develop online sentiment reports on key issues like inequality
-          </p> */}
         </div>
       </div>
       <h2 css={{ marginTop: rhythm(2), marginBottom: rhythm(1 / 5) }}>
@@ -296,7 +313,13 @@ export default ({ location }) => {
           <p>
             <b>Account Management</b>
           </p>
-          <p>
+          <p
+            css={{
+              "@media (min-width: 600px)": {
+                marginBottom: "0",
+              },
+            }}
+          >
             Worked closely with clients to understand their needs and ensure
             success on the platform
           </p>
