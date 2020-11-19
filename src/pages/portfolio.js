@@ -18,7 +18,7 @@ export default ({ location }) => {
       <h1>Portfolio</h1>
       <p>Highlights from my 10+ years in marketing.</p>
       <h2 css={{ marginBottom: rhythm(1 / 5) }}>
-        Teclo Marketing Lead @ Cisco
+        Telco Marketing Lead @ Cisco
       </h2>
       <p css={{ fontStyle: "italic" }}>Jul 2019 – Sep 2020 (1 year 4 months)</p>
       <div

@@ -26,7 +26,7 @@ Enter Gatsby.
 
 ## Why Gatsby?
 
-[Gatsby](https://www.gatsbyjs.com) describes themsevles as follows:
+[Gatsby](https://www.gatsbyjs.com) describes themselves as follows:
 
 > Gatsby is a React-based open source framework for creating websites and apps. Build anything you can imagine with over 2000 plugins and performance, scalability, and security built-in by default.
 
@@ -56,7 +56,7 @@ Starting any project is easier when you work off of something existing than just
 
 One place to find starters is the [official Gatsby Starters](https://www.gatsbyjs.com/starters/?v=2) page.
 
-There, you can filter for blogs, portfolios, landing pages, and more. Keep in mind, some of these starters are built off of CMSs like Contentful, Prismic, and even WordPress. If you're looking for something lean, I recommend filtering for Markdown. That's what I ended up using for this blog. Markdown provides a lot more simplicity and flexiblity over CMSs in my opinion.
+There, you can filter for blogs, portfolios, landing pages, and more. Keep in mind, some of these starters are built off of CMSs like Contentful, Prismic, and even WordPress. If you're looking for something lean, I recommend filtering for Markdown. That's what I ended up using for this blog. Markdown provides a lot more simplicity and flexibility over CMSs in my opinion.
 
 Unfortunately, I personally wasn't inspired by any of the starters found there in terms of visual design.
 
@@ -113,7 +113,7 @@ Two popular options are [Netlify](https://www.netlify.com) and [Vercel](https://
 
 I personally use Vercel, but Netlify is great too.
 
-Sign up with either and delpoy your blog for free!
+Sign up with either and deploy your blog for free!
 
 The one last step that does require payment is getting a domain.
 
