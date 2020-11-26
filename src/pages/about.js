@@ -95,7 +95,11 @@ export default ({ location }) => {
         large and small) grow their businesses with data-driven marketing
         leadership and campaign execution.
       </p>
-      <p></p>
+      <p>
+        My primary skills include marketing strategy, market research, and
+        marketing execution (web development, SEO, PPC, content, PR, events, and
+        more).
+      </p>
       <p>
         More recently, I've been developing my skillset as a programmer. This
         year, I built{" "}
@@ -111,7 +115,10 @@ export default ({ location }) => {
         the opportunity to get hands on experience with Python, Django, SQL, and
         virtual private servers.
       </p>
-      <p>Feel free to hit me up at tavislochhead [at] gmail [dot] com.</p>
+      <p>
+        If you have needs regarding marketing, technology, and/or data, please
+        email me at tavislochhead [at] gmail [dot] com.
+      </p>
     </Layout>
   )
 }
