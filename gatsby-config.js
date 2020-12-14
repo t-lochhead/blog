@@ -77,5 +77,13 @@ module.exports = {
     // `gatsby-plugin-sitemap`,
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-social-cards`,
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        host: "https://tavis.cc",
+        sitemap: "https://tavis.cc/sitemap.xml",
+        policy: [{ userAgent: "*", allow: "/" }],
+      },
+    },
   ],
 }
