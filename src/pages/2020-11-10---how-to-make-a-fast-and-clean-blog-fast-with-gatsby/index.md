@@ -32,13 +32,13 @@ Enter Gatsby.
 
 Gatsby is [widely considered](https://snipcart.com/blog/choose-best-static-site-generator) as one of the [best frameworks](https://www.creativebloq.com/features/10-best-static-site-generators) for [creating static websites](https://dev.to/integridsolutions/best-static-site-generator-to-use-in-2020-4kjk) - i.e. blogs.
 
-#### Page Speed
+### Page Speed
 
 One of the top reasons Gatsby is so great is because of its **_speed_**. Without getting into too much detail, if you care at all about having your blog show up in Google search results and providing a positive user experience for your visitors, then you should have an interest in page speed.
 
 I won't belabor the details, but you can read more at [seoClarity](https://www.seoclarity.net/resources/knowledgebase/why-page-speed-matters-16167/).
 
-#### Learn How to Deploy a Web App
+### Learn How to Deploy a Web App
 
 If you're new to web app development, Gatsby is a great way to start. There is no cost to host a web app, so you can try, fail, and learn as much as you want without paying a single cent.
 
@@ -52,7 +52,7 @@ If you are indeed new, you'll want to learn about Node.js first before going any
 
 Starting any project is easier when you work off of something existing than just a blank canvas.
 
-#### Official Gatsby Starters
+### Official Gatsby Starters
 
 One place to find starters is the [official Gatsby Starters](https://www.gatsbyjs.com/starters/?v=2) page.
 
@@ -60,7 +60,7 @@ There, you can filter for blogs, portfolios, landing pages, and more. Keep in mi
 
 Unfortunately, I personally wasn't inspired by any of the starters found there in terms of visual design.
 
-#### Gatsby Starters on GitHub
+### Gatsby Starters on GitHub
 
 If you find yourself in the situation I was in, head over to GitHub and search public repos. I found the search ["gatsby blog"](https://github.com/search?q=gatsby+blog) lead to many inspiring results.
 
@@ -68,7 +68,7 @@ I ended up stumbling upon [Kyle Mathews's blog](https://github.com/KyleAMathews/
 
 You're welcome to start with my starter [here](http://github.com/t-lochhead/blog).
 
-#### Starting a Starter
+### Starting a Starter
 
 The easiest way to get started with a starter is as follows.
 
