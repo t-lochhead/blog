@@ -1,10 +1,10 @@
 ---
 title: "Test Blog"
 date: "2020-11-10"
-# tags:
-#   - open source
-#   - gatsby
-#   - typography.js
+tags:
+  - open source
+  - gatsby
+  - typography.js
 draft: true
 ---
 

@@ -53,12 +53,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `G-V8CLSZ2K6M`,
-    //   },
-    // },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -82,7 +76,7 @@ module.exports = {
       options: {
         host: "https://tavis.cc",
         sitemap: "https://tavis.cc/sitemap.xml",
-        policy: [{ userAgent: "*", allow: "/" }],
+        policy: [{ userAgent: "*" }],
       },
     },
   ],

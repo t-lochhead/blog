@@ -1,10 +1,10 @@
 ---
 title: "Building a Slack bot to help handle large numbers of PRs"
 date: "2019-04-22T06:37:26.000Z"
-tags:
-  - open source
-  - gatsby
-  - typography.js
+# tags:
+#   - open source
+#   - gatsby
+#   - typography.js
 draft: true
 ---
 
