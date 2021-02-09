@@ -8,7 +8,7 @@ date: "2021-02-09"
 draft: false
 ---
 
-**_Originally presented for Thomas Francescutti's Unviersity of Toronto E-Business class._**
+**_Originally presented for Thomas Francescutti's University of Toronto E-Business class._**
 
 [![Hero Slide](./money-online.png "Hero Slide")](./How to Many Money Online - Feb 2021.pdf)
 
