@@ -28,13 +28,13 @@ Reception of RecoRank was generally positive, but building traction was a challe
 
 ## Longtail Keyword SEO at Scale
 
-One thing I noticed when researching keywords for that affiliate blog mentioned above, I noticed there were thousands and thousands of keywords that had little to no competition. I wondered if there was a way to turn SEO upside down, so that instead of going after a few high-traffic keywords, I could go for thousands of low-traffic keywords and be successful that way.
+One thing I noticed when researching keywords for that affiliate blog mentioned above, I noticed there were thousands and thousands of keywords that had little to no competition. I wondered if there was a way to turn SEO upside down, so that instead of going after a few high-traffic keywords, I could go for thousands of low-traffic keywords by dynamically creating thousands of pages that are tailored for each keyword.
 
 If you don't know what a longtail keyword is, it's not "best laptop". Longtail is more like "ram for dell laptop". The nature of longtail keywords is that they are longer, more specific, and less competitive.
 
 There's no question that Google prefers original content, but that content can take lots of shapes and sizes. Most of what you read about SEO advises on having a great blog with quality backlinks. And for more businesses, that's exactly what you should do.
 
-But what if your audience is searching keywords like:
+But what if your audience is searching for keywords like:
 
 - [apps like honey](https://www.google.com/search?q=apps+like+honey)
 - [dropbox slack integration](https://www.google.com/search?q=dropbox+slack+integration)
@@ -66,7 +66,7 @@ The results have been pretty amazing, leading to over 100K organic visits and ov
 
 What's also worth noting is the CTR and average position being really high. This is an effect of ranking for mostly low/no competition keywords.
 
-## How Do You Implement This Strategy?
+## Implementing This Strategy for Yourself
 
 First ask yourself the question, does your business have a lot of data that you make publicly available? If the answer is yes, then yes you should 100% consider using this strategy. If the answer is no and SEO is of interest to your business, then you probably want to stick with the traditional blog and brand awareness route.
 
