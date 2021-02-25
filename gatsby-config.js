@@ -32,6 +32,7 @@ module.exports = {
             options: {
               linkImagesToOriginal: false,
               maxWidth: 590,
+              wrapperStyle: `box-shadow: 2px 2px 10px grey;`,
             },
           },
           {

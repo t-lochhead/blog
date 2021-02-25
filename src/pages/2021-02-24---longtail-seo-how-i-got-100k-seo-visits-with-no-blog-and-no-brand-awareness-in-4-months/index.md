@@ -24,7 +24,7 @@ As my first sincere effort to solve this problem, I built <a href="https://recor
 
 Reception of RecoRank was generally positive, but building traction was a challenge. Building brand awareness where most of my traffic is people searching "recorank" can take a lot of time, so how could I scale quickly?
 
-<video src="./rr-demo.mp4" style="width:100%;" autoplay loop></video>
+<video src="./rr-demo.mp4" style="width:100%;box-shadow: 2px 2px 10px grey;" autoplay loop></video>
 
 ## Longtail Keyword SEO at Scale
 
@@ -36,9 +36,15 @@ There's no question that Google prefers original content, but that content can t
 
 But what if your audience is searching keywords like:
 
-- [is ironman on netflix](https://www.google.com/search?q=is+ironman+on+netflix)
-- [dropbox slack integration](https://www.google.com/search?q=dropbox+slack+integration)
 - [apps like honey](https://www.google.com/search?q=apps+like+honey)
+- [dropbox slack integration](https://www.google.com/search?q=dropbox+slack+integration)
+- [is iron man on netflix](https://www.google.com/search?q=is+ironman+on+netflix)
+
+![Longtail Example](./longtail-example.png "Longtail Example")
+
+<p style="text-align: center;">↓↓↓</p>
+
+![Apps like Honey](./ph-honey.png "Apps like Honey")
 
 Does Google think it's reasonable for there to be a 2,000+ word blog post addressing these search terms? No, of course not. Are there websites using their data to generate pages that target these keywords? You damn right there are.
 
@@ -54,7 +60,7 @@ Here is an example:
 
 I then performed proper on-page SEO, submitted massive sitemaps to Google, and redirected a few expired quality domains to my site. Pretty much your standard stuff to increase your SEO performance without painstaking link building. I'm going light on this area because there is a LOT of good content out there that details this at length.
 
-The results have been pretty amazing, leading to 100K organic visits and over 1.25M impressions from Google in 4 months.
+The results have been pretty amazing, leading to over 100K organic visits and over 1.2M impressions from Google in 4 months.
 
 ![GSC](./gsc.png "GSC")
 
