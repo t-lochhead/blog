@@ -3,6 +3,7 @@ import Helmet from "react-helmet"
 // import { Link, graphql } from "gatsby"
 // import { rhythm } from "../utils/typography"
 import Layout from "../layouts/portfolio.js"
+import Consulting from "../images/consulting.jpg"
 import Bell from "../images/bell.jpg"
 import Rogers from "../images/rogers.jpg"
 import Kijiji from "../images/kijiji.jpg"
@@ -16,8 +17,89 @@ export default ({ location }) => {
     <Layout location={location}>
       <Helmet title="portfolio" />
       <h1>Portfolio</h1>
-      <p>Highlights from my 10+ years in marketing.</p>
+      {/* <p>Highlights from my 10+ years in marketing.</p> */}
       <h2 css={{ marginBottom: rhythm(1 / 5) }}>
+        Independent Startup Strategy Consultant
+      </h2>
+      <p css={{ fontStyle: "italic" }}>Oct 2020 – Present</p>
+      <div
+        css={{
+          display: "flex",
+          flexDirection: "column",
+          marginTop: rhythm(1),
+          "@media (min-width: 600px)": {
+            flexDirection: "row",
+          },
+        }}
+      >
+        <div css={{ display: "flex", flex: "1" }}>
+          <img
+            css={{
+              width: "100%",
+              boxShadow: "2px 2px 10px grey",
+              objectFit: "contain",
+              height: "100%",
+              margin: "0",
+            }}
+            src={Consulting}
+            alt="consulting"
+          />
+        </div>
+        <div
+          css={{
+            display: "flex",
+            flex: "1",
+            paddingTop: rhythm(1),
+            flexDirection: "column",
+            justifyContent: "center",
+            "@media (min-width: 600px)": {
+              padding: rhythm(1),
+            },
+          }}
+        >
+          <p>
+            <b>Business Strategy & Execution</b>
+          </p>
+          <p>
+            Advises and supports startups with business strategy and execution,
+            particularly regarding product, marketing, and hiring
+          </p>
+          {/* <p>
+            <b>Growth Execution</b>
+          </p>
+          <p>
+            Delivers all levels of marketing execution, including community
+            engagement, SEO, PR, paid advertising, and more
+          </p> */}
+          <p>
+            <b>Client List</b>
+          </p>
+          <p
+            css={{
+              "@media (min-width: 600px)": {
+                marginBottom: "0",
+              },
+            }}
+          >
+            <a href="https://freedom.gg" target="_blank" rel="noreferrer">
+              Freedom! Games
+            </a>
+            ,{" "}
+            <a
+              href="https://polymersearch.com"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Polymer Search
+            </a>
+            ,{" "}
+            <a href="https://acmehatco.com" target="_blank" rel="noreferrer">
+              Acme Hat Co
+            </a>
+          </p>
+        </div>
+      </div>
+      <h2 css={{ marginTop: rhythm(2), marginBottom: rhythm(1 / 5) }}>
         Telco Marketing Lead @ Cisco
       </h2>
       <p css={{ fontStyle: "italic" }}>Jul 2019 – Sep 2020 (1 year 4 months)</p>

@@ -112,8 +112,8 @@ export default ({ location }) => {
         </a>{" "}
         using Node.js, React, Next.js, Algolia, and MongoDB. I've also been
         helping entrepreneurs build their own applications, which has given me
-        the opportunity to get hands on experience with Python, Django, SQL, and
-        virtual private servers.
+        the opportunity to get hands on experience with Python, Django, SQL,
+        Nginx, and more.
       </p>
       <p>
         If you have needs regarding marketing, technology, and/or data, please

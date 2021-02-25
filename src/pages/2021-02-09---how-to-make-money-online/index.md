@@ -10,6 +10,6 @@ draft: false
 
 **_Originally presented for Thomas Francescutti's University of Toronto E-Business class._**
 
-[![Hero Slide](./money-online.png "Hero Slide")](./How to Many Money Online - Feb 2021.pdf)
+[![Hero Slide](./money-online.png "Hero Slide")](./How to Make Money Online - Feb 2021.pdf)
 
 [Download Presentation](./How to Many Money Online - Feb 2021.pdf)

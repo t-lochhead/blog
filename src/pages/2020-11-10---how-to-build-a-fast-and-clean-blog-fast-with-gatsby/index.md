@@ -1,5 +1,5 @@
 ---
-title: "How To Make a Blog With Gatsby That's Fast, Unique, and Free (Almost)"
+title: "How To Build a Blog With Gatsby That's Fast, Unique, and Free (Almost)"
 date: "2020-11-10"
 # tags:
 #   - open source

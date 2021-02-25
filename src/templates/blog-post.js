@@ -11,7 +11,6 @@ const { rhythm, scale } = typography
 class BlogPostRoute extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    //console.log(post)
 
     let tags
     let tagsSection
@@ -65,11 +64,7 @@ class BlogPostRoute extends React.Component {
           }}
         />
         <ReadNext nextPost={post.frontmatter.readNext} />
-        <p
-          style={{
-            marginBottom: 0,
-          }}
-        >
+        <p>
           <img
             src={profilePic}
             alt="Kyle's profile pic"
@@ -92,6 +87,18 @@ class BlogPostRoute extends React.Component {
             RecoRank
           </a>{" "}
           and also consults as a marketer, programmer, and data analyst.
+        </p>
+        <p>
+          Help Tavis get to 10 followers on{" "}
+          <a
+            href="https://twitter.com/tavislochhead"
+            target="
+      _blank"
+            ref="nofollow"
+          >
+            Twitter
+          </a>
+          .
         </p>
       </Layout>
     )
