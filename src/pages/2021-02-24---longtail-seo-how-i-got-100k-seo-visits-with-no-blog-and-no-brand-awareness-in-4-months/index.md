@@ -68,7 +68,7 @@ What's also worth noting is the CTR and average position being really high. This
 
 ## How Do You Implement This Strategy?
 
-First ask yourself the question, does your business has a lot of data that you make publicly available? If the answer is yes, then yes you should 100% consider using this strategy. If the answer is no and SEO is of interest to your business, then you probably want to stick with the traditional blog and brand awareness route.
+First ask yourself the question, does your business have a lot of data that you make publicly available? If the answer is yes, then yes you should 100% consider using this strategy. If the answer is no and SEO is of interest to your business, then you probably want to stick with the traditional blog and brand awareness route.
 
 After that, it's really just thinking about all of the different search syntax related to your business and how you can systematically build out all of these pages. Take a look and see if your competition is leveraging a similar strategy. Just try to avoid medium-to-high competition keywords, particularly those with the word "best" in them, as there will likely be better quality content out there that you won't be able to compete with.
 

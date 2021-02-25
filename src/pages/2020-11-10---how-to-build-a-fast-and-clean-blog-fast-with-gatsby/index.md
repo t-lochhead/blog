@@ -8,7 +8,7 @@ date: "2020-11-10"
 draft: false
 ---
 
-**_This article will show you how build a blog like this one._**
+**_This article will show you how to build a blog like this one._**
 
 Ever have all these ideas that you want to share with the world, but a tweet or Facebook post doesn't cut it?
 
@@ -62,7 +62,7 @@ Unfortunately, I personally wasn't inspired by any of the starters found there i
 
 ### Gatsby Starters on GitHub
 
-If you find yourself in the situation I was in, head over to GitHub and search public repos. I found the search ["gatsby blog"](https://github.com/search?q=gatsby+blog) lead to many inspiring results.
+If you find yourself in the situation I was in, head over to GitHub and search public repos. I found the search ["gatsby blog"](https://github.com/search?q=gatsby+blog) led to many inspiring results.
 
 I ended up stumbling upon [Kyle Mathews's blog](https://github.com/KyleAMathews/blog), who just so happens to be the co-founder of Gatsby.
 
