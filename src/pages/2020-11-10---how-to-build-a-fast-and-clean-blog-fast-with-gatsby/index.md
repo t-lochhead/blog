@@ -1,5 +1,5 @@
 ---
-title: "How To Build a Blog With Gatsby That's Fast, Unique, and Free (Almost)"
+title: "How To Build a Blog With Gatsby That is Fast, Unique, and Free (Almost)"
 date: "2020-11-10"
 # tags:
 #   - open source
@@ -10,9 +10,9 @@ draft: false
 
 **_This article will show you how to build a blog like this one._**
 
-Ever have all these ideas that you want to share with the world, but a tweet or Facebook post doesn't cut it?
+Ever had all these ideas that you want to share with the world, but a tweet or Facebook post doesn’t cut it?
 
-Looking for creative ways to promote your work and that goes a bit beyond shameless self-promotion?
+Looking for creative ways to promote your work that goes a bit beyond shameless self-promotion?
 
 Then you're probably thinking about starting a blog.
 
@@ -20,7 +20,7 @@ But where do you start? And how much does it cost?
 
 There are plenty of free blogging platforms that are easy to set up. The drawbacks are usually lackluster design ([Blogger](https://blogger.com)) or lack of personality ([Medium](https://medium.com)).
 
-Then there are a whole slew of paid options. It's very easy to get suckered into paying over \$300 for 3 years of hosting, a domain, and a bunch of useless features. They're often very sluggish as well.
+Then there is a whole slew of paid options. It's very easy to get suckered into paying over \$300 for 3 years of hosting, a domain, and a bunch of useless features. They're often very sluggish as well.
 
 Enter Gatsby.
 
@@ -28,7 +28,7 @@ Enter Gatsby.
 
 [Gatsby](https://www.gatsbyjs.com) describes themselves as follows:
 
-> Gatsby is a React-based open source framework for creating websites and apps. Build anything you can imagine with over 2000 plugins and performance, scalability, and security built-in by default.
+> Gatsby is a React-based open-source framework for creating websites and apps. Build anything you can imagine with over 2000 plugins and performance, scalability, and security built-in by default.
 
 Gatsby is [widely considered](https://snipcart.com/blog/choose-best-static-site-generator) as one of the [best frameworks](https://www.creativebloq.com/features/10-best-static-site-generators) for [creating static websites](https://dev.to/integridsolutions/best-static-site-generator-to-use-in-2020-4kjk) - i.e. blogs.
 
@@ -95,9 +95,9 @@ You'll now be able to see how it looks like when you visit `http://localhost:800
 
 ## Making It Your Own
 
-You may be tempted just change the text of a starter and nothing else. While you're welcome to do this, you give up the opportunity to make your blog visually unique.
+You may be tempted just to change the text of a starter and nothing else. While you're welcome to do this, you give up the opportunity to make your blog visually unique.
 
-An easy way to make your blog visually unique is to change the colors and replace any elements that are notably original.
+An easy way to make your blog visually unique is to change the colors and replace any notably original elements.
 
 In my case, I removed the elements that produced the bold "K" design on the homepage and took a stab at doing something different.
 

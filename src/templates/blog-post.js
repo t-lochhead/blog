@@ -78,7 +78,7 @@ class BlogPostRoute extends React.Component {
             }}
           />
           <strong>{this.props.data.site.siteMetadata.author}</strong> is a
-          seasoned marketer, who loves tech and data. Tavis is the founder of{" "}
+          seasoned marketer who loves tech and data. Tavis is the founder of{" "}
           <a
             href="https://recorank.com"
             target="
