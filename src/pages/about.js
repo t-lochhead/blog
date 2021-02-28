@@ -1,7 +1,5 @@
 import React from "react"
 import Helmet from "react-helmet"
-// import { Link, graphql } from "gatsby"
-// import { rhythm } from "../utils/typography"
 import Layout from "../layouts/index.js"
 import Headshot from "../images/headshot.jpeg"
 import typography from "../utils/typography"
