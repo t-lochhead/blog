@@ -2,7 +2,6 @@ import React from "react"
 import Helmet from "react-helmet"
 import { Link } from "gatsby"
 import { scale, rhythm } from "../utils/typography"
-import homeGif from "../images/homegif2.gif"
 
 const NoStyleLink = props => (
   <div
@@ -30,7 +29,7 @@ export default () => {
         "@media (min-width: 420px)": {
           border: `${rhythm(3 / 4)} solid ${whitish}`,
         },
-        background: `#51b3bf`,
+        background: `#333333`,
         display: "flex",
         flexDirection: "column",
       }}
@@ -124,8 +123,9 @@ export default () => {
             <span
               css={{
                 fontWeight: 200,
-                color: "#f994ff",
-                textShadow: "2px 2px #ffab94, 4px 4px #ffff94",
+                color: whitish,
+                // color: "#f994ff",
+                // textShadow: "2px 2px #ffab94, 4px 4px #ffff94",
               }}
             >
               Page
@@ -134,8 +134,9 @@ export default () => {
             <span
               css={{
                 fontWeight: 500,
-                color: "#ffab94",
-                textShadow: "2px 2px #ffff94, 4px 4px #f994ff",
+                color: whitish,
+                // color: "#ffab94",
+                // textShadow: "2px 2px #ffff94, 4px 4px #f994ff",
               }}
             >
               Not
@@ -144,15 +145,16 @@ export default () => {
             <span
               css={{
                 fontWeight: 800,
-                color: "#ffff94",
-                textShadow: "2px 2px #f994ff, 4px 4px #ffab94",
+                color: whitish,
+                // color: "#ffff94",
+                // textShadow: "2px 2px #f994ff, 4px 4px #ffab94",
               }}
             >
               Found
             </span>
           </h1>
         </div>
-        <div
+        {/* <div
           css={{
             display: `flex`,
             flex: 1,
@@ -171,7 +173,7 @@ export default () => {
               margin: "0",
             }}
           />
-        </div>
+        </div> */}
       </div>
       <div
         css={{
