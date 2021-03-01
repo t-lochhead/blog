@@ -8,7 +8,7 @@ YouTube is the fastest-growing platform for all sorts of content. Video reviews 
 
 TLDR: Yes, you can.
 
-See the results 👉 [twitter.com/MKBHDtldr](https://twitter.com/MKBHDtldr)
+See the results 👉&nbsp;[twitter.com/MKBHDtldr](https://twitter.com/MKBHDtldr)
 
 ![tw1](./tw1.png "tw1")
 
