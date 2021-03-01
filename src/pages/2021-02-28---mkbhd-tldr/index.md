@@ -4,9 +4,11 @@ date: "2021-02-28"
 draft: false
 ---
 
-YouTube is the fastest-growing platform for all sorts of content. Video reviews being one of them. I love the quality that goes into these reviews. But what if there was a way to quickly grab consensus of these videos without spending hours watching them all?
+YouTube is the fastest-growing platform for all sorts of content. Video reviews being one of them. I love the quality that goes into these reviews.
 
-TLDR: Yes, you can.
+But what if there was a way to quickly grab consensus of these videos without spending hours watching them all?
+
+TLDR: Yes. With AI.
 
 See the results 👉&nbsp;[twitter.com/MKBHDtldr](https://twitter.com/MKBHDtldr)
 
