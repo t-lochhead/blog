@@ -22,7 +22,7 @@
     "gatsby-plugin-offline": "^2.0.0",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-robots-txt": "^1.5.3",
-    "gatsby-plugin-sharp": "^2.14.3",
+    "gatsby-plugin-sharp": "^2.0.0",
     "gatsby-plugin-sitemap": "^2.5.1",
     "gatsby-plugin-social-cards": "^0.5.17",
     "gatsby-plugin-typography": "^2.2.0",
@@ -34,7 +34,7 @@
     "gatsby-remark-smartypants": "^2.0.0",
     "gatsby-source-filesystem": "^2.0.1",
     "gatsby-transformer-remark": "^2.1.1",
-    "gatsby-transformer-sharp": "^2.12.0",
+    "gatsby-transformer-sharp": "^2.1.1",
     "lodash": "^4.17.4",
     "prettier": "^1.6.1",
     "prismjs": "^1.15.0",
@@ -46,9 +46,6 @@
     "typography": "^1.0.0-alpha.0",
     "typography-plugin-code": "^1.0.0-alpha.0",
     "typography-theme-de-young": "^1.0.0-alpha.0"
-  },
-  "resolutions": {
-    "sharp": "0.24.0"
   },
   "devDependencies": {
     "@xdn/core": "^2.29.0",
