@@ -7,9 +7,12 @@ export default function HTML(props) {
       <head>
         <script
           async
+          defer
           src="https://www.googletagmanager.com/gtag/js?id=G-V8CLSZ2K6M"
         />
         <script
+          async
+          defer
           dangerouslySetInnerHTML={{
             __html: `
             window.dataLayer = window.dataLayer || [];

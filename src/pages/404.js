@@ -154,26 +154,6 @@ export default () => {
             </span>
           </h1>
         </div>
-        {/* <div
-          css={{
-            display: `flex`,
-            flex: 1,
-            alignItems: `center`,
-            justifyContent: "center",
-          }}
-        >
-          <img
-            alt="homegif"
-            src={homeGif}
-            css={{
-              objectFit: "contain",
-              width: "80%",
-              height: "100%",
-              maxHeight: "500px",
-              margin: "0",
-            }}
-          />
-        </div> */}
       </div>
       <div
         css={{
