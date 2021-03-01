@@ -6,7 +6,9 @@ draft: false
 
 YouTube is the fastest-growing platform for all sorts of content. Video reviews being one of them. I love the quality that goes into these reviews. But what if there was a way to quickly grab consensus of these videos without spending hours watching them all?
 
-TLDR: Yes, you can. See the results 👉 [twitter.com/MKBHDtldr](https://twitter.com/MKBHDtldr)
+TLDR: Yes, you can.
+
+See the results 👉 [twitter.com/MKBHDtldr](https://twitter.com/MKBHDtldr)
 
 ![tw1](./tw1.png "tw1")
 
@@ -24,7 +26,7 @@ I'm a huge MKBHD fan. And as one of the top YouTube video reviewers, I tried usi
 
 ## Achieving These Results
 
-#### Step 1: Extract Transcripts
+**Step 1: Extract Transcripts**
 
 ```
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -43,7 +45,7 @@ print(txt)
 
 This simple Python script using [YouTubeTranscriptApi](https://pypi.org/project/youtube-transcript-api/) quickly gets you the transcript of any YouTube video - given that the video has a transcript. The API will produce an error if one does not exist.
 
-#### Step 2: Summarize with OpenAI
+**Step 2: Summarize with OpenAI**
 
 ![openai](./openai.png "openai")
 
