@@ -77,17 +77,6 @@ export default ({ location }) => {
       >
         I love to create, learn how things work, and help people solve problems.
       </p>
-      {/* <p>
-        I come from a family of artists, including my late grandfather,{" "}
-        <a
-          href="https://en.wikipedia.org/wiki/Kenneth_Lochhead"
-          target="
-      _blank"
-        >
-          Kenneth Lochhead
-        </a>
-        .
-      </p> */}
       <p>
         Over the past 10+ years, I've helped many incredible companies (both
         large and small) grow their businesses with data-driven marketing
@@ -116,6 +105,17 @@ export default ({ location }) => {
       <p>
         If you have needs regarding marketing, technology, and/or data, please
         email me at tavislochhead [at] gmail [dot] com.
+      </p>
+      <p>
+        Feeling generous? Help me get to 10 followers on{" "}
+        <a
+          href="https://twitter.com/tavislochhead"
+          target="
+      _blank"
+        >
+          Twitter
+        </a>
+        .
       </p>
     </Layout>
   )

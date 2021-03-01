@@ -1,10 +1,6 @@
 ---
 title: "Longtail SEO: How I Got 100K SEO Visits with No Blog and No Brand Awareness in 4 Months"
-date: "2021-02-24"
-# tags:
-#   - open source
-#   - gatsby
-#   - typography.js
+date: "2021-03-01"
 draft: false
 ---
 

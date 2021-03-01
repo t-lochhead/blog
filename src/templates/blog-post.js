@@ -67,7 +67,7 @@ class BlogPostRoute extends React.Component {
         <p>
           <img
             src={profilePic}
-            alt="Kyle's profile pic"
+            alt="profile pic"
             style={{
               borderRadius: `100%`,
               float: "left",
@@ -77,8 +77,11 @@ class BlogPostRoute extends React.Component {
               height: rhythm(2),
             }}
           />
-          <strong>{this.props.data.site.siteMetadata.author}</strong> is a
-          seasoned marketer who loves tech and data. Tavis is the founder of{" "}
+          <strong>
+            <Link to="/about">{this.props.data.site.siteMetadata.author}</Link>
+          </strong>{" "}
+          is a seasoned marketer who loves tech and data. Tavis is the founder
+          of{" "}
           <a
             href="https://recorank.com"
             target="
