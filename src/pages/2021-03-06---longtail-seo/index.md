@@ -20,19 +20,19 @@ According to a [study done by Ahrefs](https://ahrefs.com/blog/long-tail-keywords
 
 ## What are longtail keywords?
 
-Here's how Tim Soulo from Ahrefs describes longtail kewords.
+Here's how Tim Soulo from Ahrefs describes longtail keywords.
 
 > Longtail keywords are terms with low search volumes. Despite what many people think, it has nothing to do with how long or short a keyword is, how well it’s likely to convert, or how specific it is.
 
 ## Targeting Longtail Keywords Effectively
 
-While Tim is correct about longtail keywords, the strategy I will discuss here targets longtail keyword that are indeed **_specific_**.
+While Tim is correct about longtail keywords, the strategy I will discuss here targets longtail keywords that are indeed **_specific_**.
 
 Search engines like Google group similar search terms together, such as "how to lose weight quickly" and "fastest way to lose weight".
 
 Google DOES treat specific search terms differently. If you're living in Toronto, the searches "best restaurant" and "best restaurant new york" are going to give you very different results.
 
-Since each longtail keyword delivers a tiny bit of traffic, you will need to target a lot of keywords with a lot of pages.
+Since each longtail keyword delivers a tiny bit of traffic, you will need to target many keywords with a lot of pages.
 
 ## Example: RecoRank
 
@@ -88,7 +88,7 @@ This is an automatically-generated page. Product Hunt has thousands of these typ
 
 1. Ask yourself whether your business has a lot of data that you make publicly available. If the answer is yes, then yes, you should 100% consider using this strategy. If the answer is no and SEO is of interest to your business, you probably want to stick with the traditional blog and brand awareness route.
 
-2. Think about all of the different search syntax related to your business and how you can systematically build out all of static pages that target **_specific_** longtail keywords. Also, take a look and see if your competition is leveraging a similar strategy.
+2. Think about all of the different search syntax related to your business and how you can systematically build out countless static pages that target **_specific_** longtail keywords. Also, take a look and see if your competition is leveraging a similar strategy.
 
 3. Avoid medium-to-high competition keywords, particularly those with the word "best" in them, as there will likely be better quality content out there that you won't be able to compete successfully.
 
