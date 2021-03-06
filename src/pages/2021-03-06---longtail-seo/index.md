@@ -42,11 +42,11 @@ If you're not aware of RecoRank, it's an application that finds reviews and rele
 
 <video src="./rr-demo.mp4" style="width:100%;box-shadow: 2px 2px 10px grey;" autoplay loop></video>
 
-With a large data set of content that people search for on places like YouTube and Google, I discovered RecoRank was a good fit for building thousands of static pages that all individually targeted specific longtail keywords.
+With a large dataset of content that people search for on places like YouTube and Google, I discovered RecoRank was a good fit for building thousands of static pages that all individually targeted specific longtail keywords.
 
 ## Trial and Error
 
-If you look at RecoRank's [robot.txt](https://recorank.com/robots.txt), you can see a variety of experiments I have tried. Right now, the VS's keywords have paid off. The rest, not so much.
+If you look at RecoRank's [robots.txt](https://recorank.com/robots.txt), you can see a variety of experiments I have tried. Right now, the VS's keywords have paid off. The rest, not so much.
 
 Here is what a RecoRank VS page looks like:
 
@@ -54,7 +54,9 @@ Here is what a RecoRank VS page looks like:
 
 <p style="text-align: center;"><a href="https://recorank.com/vs/apple-airpods-vs-apple-airpods-pro" target="_blank">recorank.com/vs/apple-airpods-vs-apple-airpods-pro</a></p>
 
-I'll admit, the page isn't mind-blowing. However, the average session duration for these pages is about a minute, which isn't bad. Nevertheless, RecoRank is looking at smarter ways to analyze and present this kind of data, such as using [Open AI](https://openai.com).
+I'll admit, the page isn't mind-blowing. However, the average session duration for these pages is about a minute, which isn't bad.
+
+Nevertheless, RecoRank is looking at smarter ways to analyze and present this kind of data, such as using [Open AI](https://openai.com).
 
 [You can read about my first experiment using OpenAI to summarize MKBHD's video reviews.](/mkbhd-tldr)
 
@@ -74,7 +76,7 @@ Let's take a look at these keywords:
 - [dropbox slack integration](https://www.google.com/search?q=dropbox+slack+integration)
 - [is iron man on netflix](https://www.google.com/search?q=is+ironman+on+netflix)
 
-Here's what happens when you click on the link to Product Hunt.
+Here's what happens when you click on the link to Product Hunt when searching "apps like honey".
 
 ![Longtail Example](./longtail-example.png "Longtail Example")
 
@@ -90,7 +92,7 @@ This is an automatically-generated page. Product Hunt has thousands of these typ
 
 2. Think about all of the different search syntax related to your business and how you can systematically build out countless static pages that target **_specific_** longtail keywords. Also, take a look and see if your competition is leveraging a similar strategy.
 
-3. Avoid medium-to-high competition keywords, particularly those with the word "best" in them, as there will likely be better quality content out there that you won't be able to compete successfully.
+3. Avoid medium-to-high competition keywords, particularly those with the word "best" in them, as there will likely be better quality content out there that you won't be able to compete with successfully.
 
 4. Optimize your success by performing proper on-page SEO and submitting your sitemaps to Google. It helps if your domain has a good DR, which you can accelerate with an expired domain redirect (do at your own risk).
 
