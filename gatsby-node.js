@@ -5,8 +5,8 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage, createRedirect } = actions
 
   createRedirect({
-    fromPath: `/abc`,
-    toPath: `/123`,
+    fromPath: `/longtail-seo`,
+    toPath: `/long-tail-seo`,
     isPermanent: true,
   })
 
