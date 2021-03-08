@@ -1,9 +1,0 @@
-{
-    "redirects": [
-      { 
-        "source": "/longtail-seo",
-        "destination": "/long-tail-seo", 
-        "permanent": true
-      }
-    ]
-  }
