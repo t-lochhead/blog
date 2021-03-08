@@ -81,5 +81,6 @@ module.exports = {
         policy: [{ userAgent: "*" }],
       },
     },
+    `gatsby-plugin-meta-redirect`,
   ],
 }

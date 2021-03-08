@@ -2,7 +2,13 @@ const _ = require("lodash")
 const path = require("path")
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
+
+  createRedirect({
+    fromPath: `/abc`,
+    toPath: `/123`,
+    isPermanent: true,
+  })
 
   return new Promise((resolve, reject) => {
     const pages = []
