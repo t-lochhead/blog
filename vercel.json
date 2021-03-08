@@ -2,7 +2,7 @@
     "redirects": [
       { 
         "source": "/longtail-seo",
-        "destination": "long-tail-seo", 
+        "destination": "/long-tail-seo", 
         "permanent": true
       }
     ]
