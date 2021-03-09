@@ -107,7 +107,7 @@ export default ({ location }) => {
         email me at tavislochhead [at] gmail [dot] com.
       </p>
       <p>
-        Feeling generous? Help me get to 10 followers on{" "}
+        Feeling generous? Help me get to 20 followers on{" "}
         <a
           href="https://twitter.com/tavislochhead"
           target="

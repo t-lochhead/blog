@@ -18,7 +18,7 @@ While this is sound advice, it's not the only way to approach SEO, and it exclud
 
 According to a [study done by Ahrefs](https://ahrefs.com/blog/long-tail-keywords/), 92% of keywords in their dataset of 1.9B search queries classify as long-tail, which accounts for 39% of total searches.
 
-## What are long-tail keywords?
+## What Are Long-tail Keywords?
 
 Here's how Tim Soulo from Ahrefs describes long-tail keywords.
 
@@ -78,7 +78,7 @@ Let's take a look at these keywords:
 
 Here's what happens when you click on the link to Product Hunt when searching "apps like honey".
 
-![Long-tail Example](./long-tail-example.png "Long-tail Example")
+![Long-tail Example](./longtail-example.png "Long-tail Example")
 
 <p style="text-align: center;">↓↓↓</p>
 
