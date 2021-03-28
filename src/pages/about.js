@@ -97,10 +97,7 @@ export default ({ location }) => {
         >
           RecoRank
         </a>{" "}
-        using Node.js, React, Next.js, Algolia, and MongoDB. I've also been
-        helping entrepreneurs build their own applications, which has given me
-        the opportunity to get hands on experience with Python, Django, SQL,
-        Nginx, and more.
+        using Node.js, React, Next.js, Algolia, and MongoDB.
       </p>
       <p>
         If you have needs regarding marketing, technology, and/or data, please
