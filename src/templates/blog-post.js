@@ -92,7 +92,7 @@ class BlogPostRoute extends React.Component {
           and also consults as a marketer, programmer, and data analyst.
         </p>
         <p>
-          Help Tavis get to 20 followers on{" "}
+          Help Tavis get to 40 followers on{" "}
           <a
             href="https://twitter.com/tavislochhead"
             target="
