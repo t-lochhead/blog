@@ -8,7 +8,7 @@ Last year I asked myself a question, could I scale SEO traffic by targeting thou
 
 ![GSC](./gsc-apr-2021.png "GSC")
 
-**April 1, 2021 UPDATE:** Originally, this post was about 100K visits over 4 months. Data is updated to show performance over 5 months, which shows flattening of growth. I'll report back in the next month or two.
+**April 1, 2021 UPDATE:** Originally, this post was about 100K visits over 4 months. Data is updated to show performance over 5 months, which shows flattening of growth. I'll report back again in the next month or two.
 
 ## Looking Beyond the SEO Rat Race
 

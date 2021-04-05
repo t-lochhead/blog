@@ -88,16 +88,23 @@ export default ({ location }) => {
         more).
       </p>
       <p>
-        More recently, I've been developing my skillset as a programmer. This
-        year, I built{" "}
-        <a
-          href="https://recorank.com"
-          target="
-      _blank"
-        >
+        Lately, I've been developing my skillset as a programmer. Last year, I
+        built{" "}
+        <a href="https://recorank.com" rel="noreferrer" target="_blank">
           RecoRank
         </a>{" "}
-        using Node.js, React, Next.js, Algolia, and MongoDB.
+        using Next.js, Algolia, and MongoDB.
+      </p>
+      <p>
+        Most recently, I have teamed up with the bright minds behind{" "}
+        <a href="https://buyforlife.com" rel="noreferrer" target="_blank">
+          BuyForLife.com
+        </a>{" "}
+        to build{" "}
+        <a href="https://reviewr.ai" rel="noreferrer" target="_blank">
+          reviewr.ai
+        </a>{" "}
+        - a GPT-3-powered review aggregation and analysis service.
       </p>
       <p>
         If you have needs regarding marketing, technology, and/or data, please
