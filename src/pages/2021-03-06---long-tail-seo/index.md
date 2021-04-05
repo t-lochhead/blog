@@ -1,12 +1,14 @@
 ---
-title: "Long-tail SEO: How I Got 100K SEO Visits in 4 Months With No Blog and No Brand Awareness"
+title: "Long-tail SEO: How I Got 152K SEO Visits in 5 Months With No Blog and No Brand Awareness"
 date: "2021-03-06"
 draft: false
 ---
 
 Last year I asked myself a question, could I scale SEO traffic by targeting thousands of long-tail keywords? The answer turns out to be: yes.
 
-![GSC](./gsc.png "GSC")
+![GSC](./gsc-apr-2021.png "GSC")
+
+**April 1, 2021 UPDATE:** Originally, this post was about 100K visits over 4 months. Data is updated to show performance over 5 months, which shows flattening of growth. I'll report back in the next month or two.
 
 ## Looking Beyond the SEO Rat Race
 
@@ -60,9 +62,9 @@ Nevertheless, RecoRank is looking at smarter ways to analyze and present this ki
 
 [You can read about my first experiment using OpenAI to summarize MKBHD's video reviews.](/mkbhd-tldr)
 
-Even without any fancy AI-powered content analysis, the results so far have been pretty amazing. Pretty much all of RecoRank's traffic goes to these comparison pages, which has resulted in 101K visits and 1.34M impressions from Google in 4 months.
+Even without any fancy AI-powered content analysis, the results so far have been pretty amazing. Pretty much all of RecoRank's traffic goes to these comparison pages, which has resulted in 152K visits and 2.16M impressions from Google in 5 months.
 
-![GSC](./gsc.png "GSC")
+![GSC](./gsc-apr-2021.png "GSC")
 
 What's also worth noting is the CTR and average position being really high. This is an effect of ranking for mostly low/no competition keywords.
 
