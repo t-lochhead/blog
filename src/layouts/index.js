@@ -69,7 +69,7 @@ class Wrapper extends React.Component {
                 flexDirection: "row",
               }}
             >
-              <NoStyleLink to="/portfolio/">portfolio</NoStyleLink>
+              {/* <NoStyleLink to="/portfolio/">portfolio</NoStyleLink> */}
               <NoStyleLink to="/blog/">blog</NoStyleLink>
             </div>
             <div
